@@ -1,0 +1,321 @@
+{
+  "_type": "News",
+  "readLink": "https://api.cognitive.microsoft.com/api/v5/news/search?q=science+updates",
+  "totalEstimatedMatches": 39700,
+  "value": [
+    {
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/80a4b958-d69f-4ab4-9088-2e0ab32c5af0",
+          "name": "Mission"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/e95c77a0-fdda-4145-0cb1-5621b16cd2b8",
+          "name": "Mars Science Laboratory"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/d9f1e0a5-4158-2d13-f533-4d354dc0032b",
+          "name": "Curiosity"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "mars.jpl.nasa.gov"
+        }
+      ],
+      "datePublished": "2017-06-24T03:21:00",
+      "clusteredArticles": null,
+      "mentions": null,
+      "video": null,
+      "category": "ScienceAndTechnology",
+      "name": "Curiosity Mission <b>Updates</b>",
+      "url": "https://www.bing.com/cr?IG=5F9A8974F16944E6B6F6F0E017504EC2&CID=0010FEC8DF9A6ECE05D3F463DE5A6F04&rd=1&h=BNL_rvmY-2Keu2qGFDVL98E7tQGRAYOYsfLIyckwNxA&v=1&r=https%3a%2f%2fmars.jpl.nasa.gov%2fmsl%2fmission%2fmars-rover-curiosity-mission-updates%2f%3fmu%3dsol-1736-1739-a-roving-astronomer&p=DevEx,5010.1",
+      "description": "After these remote observations, Curiosity will untuck her arm and engage in contact <b>science</b> with the &quot;Winter Harbor&quot; target. First, the Dust Removal Tool will be used to brush away any surface dust. Curiosity will then deploy APXS to the target ...",
+      "image": {
+        "contentUrl": null,
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.AD344823C9025AA3CB37708E8A440B7B&pid=News",
+          "width": 700,
+          "height": 525
+        }
+      }
+    },
+    {
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/f6116041-d901-df71-ce8b-1f0c1751f67d",
+          "name": "Kennedy Space Center"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/5b55e494-e647-27f9-207f-ca1755d77917",
+          "name": "Falcon 9"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "FLORIDA TODAY"
+        }
+      ],
+      "datePublished": "2017-06-23T20:34:00",
+      "clusteredArticles": null,
+      "mentions": null,
+      "video": null,
+      "category": "ScienceAndTechnology",
+      "name": "<b>Updates</b>: SpaceX Falcon 9 launches from KSC, lands on drone ship",
+      "url": "http://www.bing.com/cr?IG=5F9A8974F16944E6B6F6F0E017504EC2&CID=0010FEC8DF9A6ECE05D3F463DE5A6F04&rd=1&h=tZA6434qrLAwWxpL7VnWv8MQ6WoSyMEOY0hEIAPJBaE&v=1&r=http%3a%2f%2fwww.floridatoday.com%2fstory%2ftech%2fscience%2fspace%2f2017%2f06%2f23%2flive-updates-spacex-falcon-9-launch-kennedy-space-center-landing-flight-proven-bulgariasat%2f423635001%2f&p=DevEx,5012.1",
+      "description": "<b>Updates</b>: SpaceX Falcon 9 launches from KSC, lands on drone ship A SpaceX Falcon 9 rocket successfully launched from Kennedy Space Center at 3:10 p.m. Friday. Check out this story on floridatoday.com: http://on.flatoday.com/2t34PQe",
+      "image": {
+        "contentUrl": null,
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.9CBA05029D7A11C08563A1F51B3FC330&pid=News",
+          "width": 521,
+          "height": 293
+        }
+      }
+    },
+    {
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/ce04a593-f9af-6da1-e878-c22f5a6bef58",
+          "name": "School"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/986ee91d-c841-91f1-5880-50f906e4d04c",
+          "name": "Science"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/f80d3278-c4bb-30bc-376d-cb9c315088ea",
+          "name": "Curriculum"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Patch"
+        }
+      ],
+      "datePublished": "2017-06-12T16:17:00",
+      "clusteredArticles": null,
+      "mentions": null,
+      "video": null,
+      "category": null,
+      "name": "<b>Science</b> Curriculum Overhaul <b>Update</b>: Shaker Schools",
+      "url": "https://www.bing.com/cr?IG=5F9A8974F16944E6B6F6F0E017504EC2&CID=0010FEC8DF9A6ECE05D3F463DE5A6F04&rd=1&h=VgO5D7IX_UJcijzx-FKbsOk5qcyluqlrV7r0nZL_Avo&v=1&r=https%3a%2f%2fpatch.com%2fohio%2fshakerheights%2fscience-curriculum-overhaul-update-shaker-schools&p=DevEx,5014.1",
+      "description": "A staffer at Shaker Schools outlines some details on how the district is enhancing its <b>science</b> program in elementary schools. SHAKER HEIGHTS, OH — The Shaker Heights School district announced in May that it planned to improve its <b>science</b> class and ...",
+      "image": {
+        "contentUrl": null,
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.9F5F297B9B4E4A468E5152B11A65A601&pid=News",
+          "width": 600,
+          "height": 450
+        }
+      }
+    },
+    {
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/5dd01466-37b9-97d0-14bc-be9d713298b0",
+          "name": "Summit"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/2b650c2c-e497-171f-039d-de1770613a40",
+          "name": "Adenocarcinoma"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/986ee91d-c841-91f1-5880-50f906e4d04c",
+          "name": "Science"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "IT Business Net"
+        }
+      ],
+      "datePublished": "2017-06-12T17:29:00",
+      "clusteredArticles": null,
+      "mentions": null,
+      "video": null,
+      "category": null,
+      "name": "OncLive® Presents State of the <b>Science</b> Summit: <b>Updates</b> in Management of Adenocarcinoma of the Lung",
+      "url": "http://www.bing.com/cr?IG=5F9A8974F16944E6B6F6F0E017504EC2&CID=0010FEC8DF9A6ECE05D3F463DE5A6F04&rd=1&h=6oDb_6AzutDZwGSG7qitxPtVrb6j8mLQarZgLmkpaFA&v=1&r=http%3a%2f%2fitbusinessnet.com%2farticle%2fOncLive---Presents-State-of-the-Science-Summit%3a-Updates-in-Management-of-Adenocarcinoma-of-the-Lung-5001406&p=DevEx,5016.1",
+      "description": "CRANBURY, N.J.--(BUSINESS WIRE)--#SOSS--OncLive ®, a leading digital provider of resources and information to oncology professionals announces the latest State of the <b>Science</b> Summit: <b>Updates</b> in Management of Adenocarcinoma of the Lung, which will be held ...",
+      "image": {
+        "contentUrl": null,
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.C8C3ACCF76986BEA6F4CDC0B1C52426C&pid=News",
+          "width": 150,
+          "height": 150
+        }
+      }
+    },
+    {
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/056f9f38-7edd-9cb1-70d3-10f7f6b8e320",
+          "name": "Google Glass"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "sciencenewsdaily.org"
+        }
+      ],
+      "datePublished": "2017-06-22T17:51:00",
+      "clusteredArticles": null,
+      "mentions": null,
+      "video": null,
+      "category": "ScienceAndTechnology",
+      "name": "Google Glass: Shock <b>update</b> hints at return from the dead",
+      "url": "http://www.bing.com/cr?IG=5F9A8974F16944E6B6F6F0E017504EC2&CID=0010FEC8DF9A6ECE05D3F463DE5A6F04&rd=1&h=QCAAQPMLU7YL-mr9M_tCjkEZpOowbodCRY1D2hVdV0Q&v=1&r=http%3a%2f%2fsciencenewsdaily.org%2finternet-news%2fcluster1061817512%2f&p=DevEx,5018.1",
+      "description": "The first Google Glass firmware <b>update</b> has arrive after nearly three years. This is the first Google Glass <b>update</b> since September 2017. The MyGlass companion app for Google Glass has received an <b>update</b> which brings support for Bluetooth aside from bug ...",
+      "image": null
+    },
+    {
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/7ad6a428-b2c5-cf24-4ce2-e33b8657d426",
+          "name": "University of Idaho"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/986ee91d-c841-91f1-5880-50f906e4d04c",
+          "name": "Science"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "ABC Kcrg  9"
+        }
+      ],
+      "datePublished": "2017-06-13T03:52:00",
+      "clusteredArticles": null,
+      "mentions": null,
+      "video": null,
+      "category": null,
+      "name": "<b>UPDATE</b>: UI <b>science</b> building fire causes $500,000 damage",
+      "url": "http://www.bing.com/cr?IG=5F9A8974F16944E6B6F6F0E017504EC2&CID=0010FEC8DF9A6ECE05D3F463DE5A6F04&rd=1&h=3a6qebhh8gqKFqYcgaGARDqtcVrLXwKAa8ex7V941ac&v=1&r=http%3a%2f%2fwww.kcrg.com%2fcontent%2fnews%2fUniversity-of-Iowa-science-building-catches-fire-427846393.html&p=DevEx,5020.1",
+      "description": "Firefighters said the fire started in a laboratory just before six Sunday night. No one was hurt. The University has not said if anyone was working in the lab at the time or how the damage will affect classes. _____ PREVIOUS STORY: Firefighters ...",
+      "image": null
+    },
+    {
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/ac1ee333-fc84-0d2d-4a4e-33bf5c25dd4d",
+          "name": "Q1"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/986ee91d-c841-91f1-5880-50f906e4d04c",
+          "name": "Science"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "StreetInsider"
+        }
+      ],
+      "datePublished": "2017-06-12T20:44:00",
+      "clusteredArticles": null,
+      "mentions": null,
+      "video": null,
+      "category": "ScienceAndTechnology",
+      "name": "<b>UPDATE</b>: <b>Science</b> Applications Int&#39;l (SAIC) Reports 4c Beat On Q1 EPS",
+      "url": "https://www.bing.com/cr?IG=5F9A8974F16944E6B6F6F0E017504EC2&CID=0010FEC8DF9A6ECE05D3F463DE5A6F04&rd=1&h=M0z_kj100JUvDWjTyz0bLud0oVpQ1I7fg0NcaP1v9_U&v=1&r=https%3a%2f%2fwww.streetinsider.com%2fEarnings%2fUPDATE%253A%2bScience%2bApplications%2bIntl%2b%2528SAIC%2529%2bReports%2b4c%2bBeat%2bOn%2bQ1%2bEPS%2f13003409.html&p=DevEx,5022.1",
+      "description": "<b>Science</b> Applications Int&#39;l (NYSE: SAIC) reported Q1 EPS of $1.08, $0.04 better than the analyst estimate of $1.04. Revenue for the quarter came in at $1.103 billion versus the consensus estimate of $1.12 billion. For earnings history and earnings-related ...",
+      "image": null
+    },
+    {
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/bdf1897c-e76b-4ae7-cc7b-e85eb9a0524d",
+          "name": "Tree of life"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/83d585d4-e017-13fa-8b6d-2152aa4600d1",
+          "name": "Charles Darwin"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Futurity"
+        }
+      ],
+      "datePublished": "2017-06-13T21:09:00",
+      "clusteredArticles": null,
+      "mentions": null,
+      "video": null,
+      "category": "ScienceAndTechnology",
+      "name": "Scientists want to <b>update</b> Darwin’s ‘tree of life’",
+      "url": "http://www.bing.com/cr?IG=5F9A8974F16944E6B6F6F0E017504EC2&CID=0010FEC8DF9A6ECE05D3F463DE5A6F04&rd=1&h=8lCi6Yy2-Op1p8RfZp4WCBhJATSxl3PB8o_gYyTp7cQ&v=1&r=http%3a%2f%2fwww.futurity.org%2fdarwins-tree-of-life-update-1457062%2f&p=DevEx,5024.1",
+      "description": "Now, scientists want to <b>update</b> the idea. “The goal is to transform a two-dimensional tree into one that is multi-dimensional…” A new era in <b>science</b> has emerged without a clear path to portraying the impacts of microbes across the tree of life ...",
+      "image": null
+    },
+    {
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/e9487e3f-6b62-88d0-8aff-0d14079dbb05",
+          "name": "Charleston"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/5d709508-3b89-8c0c-4142-70a8ebc7d2ea",
+          "name": "Huntington"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/986ee91d-c841-91f1-5880-50f906e4d04c",
+          "name": "Science"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "tristateupdate.com"
+        }
+      ],
+      "datePublished": "2017-06-20T22:26:00",
+      "clusteredArticles": null,
+      "mentions": null,
+      "video": null,
+      "category": null,
+      "name": "<b>Science</b> Says: Why some airplanes don&#39;t fly in high heat",
+      "url": "http://www.bing.com/cr?IG=5F9A8974F16944E6B6F6F0E017504EC2&CID=0010FEC8DF9A6ECE05D3F463DE5A6F04&rd=1&h=6b_UAgRLPMs2TLprpYDBsiRKsRSJHjZgXAJXhu7NJlE&v=1&r=http%3a%2f%2fwww.tristateupdate.com%2fstory%2f35708564%2fscience-says-why-some-airplanes-dont-fly-in-high-heat&p=DevEx,5026.1",
+      "description": "Follow David Koenig on Twitter: @airlinewriter. His work can be found here . This Associated Press series was produced in partnership with the Howard Hughes Medical Institute&#39;s Department of <b>Science</b> Education. The AP is solely responsible for all content.",
+      "image": null
+    },
+    {
+      "about": [
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/2b650c2c-e497-171f-039d-de1770613a40",
+          "name": "Adenocarcinoma"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/5dd01466-37b9-97d0-14bc-be9d713298b0",
+          "name": "Summit"
+        },
+        {
+          "readLink": "https://api.cognitive.microsoft.com/api/v5/entities/986ee91d-c841-91f1-5880-50f906e4d04c",
+          "name": "Science"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "TMCnet.com"
+        }
+      ],
+      "datePublished": "2017-06-12T15:42:00",
+      "clusteredArticles": null,
+      "mentions": null,
+      "video": null,
+      "category": null,
+      "name": "OncLive® Presents State of the <b>Science</b> Summit™: <b>Updates</b> in Management of Adenocarcinoma of the Lung",
+      "url": "http://www.bing.com/cr?IG=5F9A8974F16944E6B6F6F0E017504EC2&CID=0010FEC8DF9A6ECE05D3F463DE5A6F04&rd=1&h=bcCLRDgWHQw4-1nBcb8l8nIa4aZYFYgZaOijtOW68Ns&v=1&r=http%3a%2f%2fwww.tmcnet.com%2fusubmit%2f-onclivereg-presents-state-the-science-summittrade-updates-management-%2f2017%2f06%2f12%2f8562380.htm&p=DevEx,5028.1",
+      "description": "OncLive ®, a leading digital provider of resources and information to oncology professionals announces the latest State of the <b>Science</b> Summit™: <b>Updates</b> in Management of Adenocarcinoma of the Lung, which will be held on July 8, 2017 at the Fairmont in ...",
+      "image": null
+    }
+  ]
+}

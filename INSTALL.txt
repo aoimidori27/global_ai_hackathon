@@ -1,0 +1,16 @@
+# Installation
+- Python (v2.7)
+- word2vec (gensim)
+- NLTK (punkt, averaged_perceptron_tagger packages)
+
+# How To Use
+1. launch a server
+$ python scripts/server.py
+2. Open web Firefox browser and access web page
+3. Paste Bing news search result with JSON format
+4. send your request by pushgin 'Go!' button
+
+# Acknowledgement
+This software is cited issues published by New York Times Prompts.
+MICHAEL GONCHAR "650 Prompts for Narrative and Personal Writing" August, 2016, New York Times
+https://www.nytimes.com/2016/10/20/learning/lesson-plans/650-prompts-for-narrative-and-personal-writing.html

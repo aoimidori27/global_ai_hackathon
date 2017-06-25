@@ -1,0 +1,1 @@
+{"issue": ["Are You Distracted by Technology?\n", "What Tech Tools Play the Biggest Role in Your Life?\n", "What New Technologies or Tech Toys Are You Most Excited About?\n", "To What Piece of Technology Would You Write a 'Love Letter'?\n", "What Do You Wish Your Teachers Knew About You?\n"], "keyword": ["intelligence", "technology", "set"], "algorithm": "word2vec (gensim)"}
